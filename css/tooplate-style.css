@@ -10,7 +10,7 @@ body {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
   font-size: 19px;
   font-weight: 300;
-  color: white;
+  color: black;
   position: relative;
 }
 
@@ -24,7 +24,7 @@ h1 {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url(../img/samuel.jpg);
+  background-image: url(../img/agoravai.jpeg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -86,7 +86,6 @@ p {
   list-style: none;
   display: inline-block;
   border: 1px solid white;
-  float: left;
   margin: 10px;
 }
 

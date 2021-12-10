@@ -41,8 +41,9 @@ a:hover {
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
-  align-items: center; }
-
+  align-items: center; 
+}
+ 
 .inner {
   padding: 20px;
   background: #fff;
